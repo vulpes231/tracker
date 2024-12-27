@@ -2,6 +2,7 @@
 import React from "react";
 import { MdMenu, MdSearch } from "react-icons/md";
 import { styles } from "../constants/constants";
+import { logo } from "../assets";
 
 const Navbar = () => {
   return (
@@ -12,7 +13,7 @@ const Navbar = () => {
           <MdMenu className={styles.icon} />
         </span>
         <span>
-          <img src="" alt="" />
+          <img src={logo} alt="" className="w-[30px]" />
         </span>
         <span>
           <MdSearch className={styles.icon} />

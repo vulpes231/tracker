@@ -6,7 +6,7 @@
     "tracking": 4567008976541122,
     "postal": ["priority mail", "first class package service"],
     "features": "Quickship tracking",
-    "date": "May 15, 2025, 2:45pm",
+    "date": "December 28, 2024, 2:45pm",
     "status": ["in transit", "delivered", "label created"]
   },
   {
@@ -16,7 +16,7 @@
     "tracking": 9784562130182375,
     "postal": ["priority mail", "first class package service"],
     "features": "Quickship tracking",
-    "date": "Jan 25, 2025, 8:45pm",
+    "date": "December 28, 2024, 8:45pm",
     "status": ["in transit", "delivered", "label created"]
   },
   {
@@ -26,7 +26,7 @@
     "tracking": 3421879560321148,
     "postal": ["priority mail", "first class package service"],
     "features": "Quickship tracking",
-    "date": "March 01, 2025, 9:15am",
+    "date": "December 30, 2024, 9:15am",
     "status": ["in transit", "delivered", "label created"]
   }
 ]

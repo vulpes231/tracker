@@ -28,7 +28,7 @@ const Footer = () => {
         <figure className="flex items-center gap-1">
           <img src={logo} alt="" className="w-[30px]" />
           <h4 className="text-green-500 font-semibold text-2xl">
-            Quick <span className="text-red-500">ship</span>
+            Speedy <span className="text-red-500">Send</span>
           </h4>
         </figure>
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
